@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="rainbar">
+        <attr name="space" format="dimension" />
+        <attr name="barwidth" format="dimension" />
+        <attr name="barheight" format="dimension"/>
+        <attr name="barcolor" format="color" />
+    </declare-styleable>
+</resources>
