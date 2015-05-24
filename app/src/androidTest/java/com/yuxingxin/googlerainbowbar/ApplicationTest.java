@@ -1,4 +1,4 @@
-package com.yuxingcin.googlerainbowbar;
+package com.yuxingxin.googlerainbowbar;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
