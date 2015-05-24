@@ -6,4 +6,4 @@
 >4. `barcolor` 进度条颜色
 
 最后来一个截屏
-![image](https://github.com/yuxingxin/GoogleRainbowBar/new/master/screenshots/screen.png)
+![image](https://github.com/yuxingxin/GoogleRainbowBar/blob/master/screenshots/screen.png)
